@@ -11,7 +11,6 @@ This project demonstrates core backend concepts like REST APIs, database integra
 
 🏗️ Layered architecture (Controller → Service → Repository)
 
-
 ## 🧱 Tech Stack
 Java 17
 
